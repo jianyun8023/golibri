@@ -17,8 +17,8 @@
 从源码编译：
 
 ```bash
-git clone https://github.com/jianyun8023/go-epub-meta.git
-cd go-epub-meta
+git clone https://github.com/jianyun8023/golibri.git
+cd golibri
 go build -o golibri ./cmd/golibri/
 ```
 
